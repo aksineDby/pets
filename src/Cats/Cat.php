@@ -1,5 +1,8 @@
 <?php
 
-class Cat {
+use src\AnimalAbstract;
+
+class Cat extends AnimalAbstract
+{
 
 }
